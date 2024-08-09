@@ -39,7 +39,9 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
 <div align="center">
   <img src="No_Country.jpg" alt="No Country">
 </div>
-## Presiona el boton para ingresar al respositorio  
+
+## **Presiona el boton para ingresar al respositorio**  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/No-Country-simulation/c19-119-n-data-bi)
 
 
