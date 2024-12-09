@@ -56,9 +56,7 @@ Serás asignado a un equipo multidisciplinario basado en tu experiencia, rol, st
 - Calificar a tus compañeros y Team Leader.
 - Contar con el repositorio en la organización de GitHub de No Country.
 
-## Soporte 🔧
 
-Si necesitas ayuda, contacta a No Country Support a través de Slack.
 
 ## Redes Sociales y Enlaces de Interés 🌐
 
